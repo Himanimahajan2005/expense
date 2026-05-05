@@ -1,17 +1,23 @@
-# expensetracksplitapp_dart
+# Smart Expense Tracker 📱💰
 
-A new Flutter project.
+This is a simple app to track daily expenses and split money with friends.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* Add expenses
+* View expenses
+* Split money
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Flutter
+* Spring Boot
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Run
+
+Run backend, then run the app.
+
+## Developer
+
+Himani M. Mahajan
+
